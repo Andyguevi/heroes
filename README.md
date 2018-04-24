@@ -1,2 +1,1 @@
-# heroes
-6 heroes 
+Modificamos archivo README.md laboratorio 05
